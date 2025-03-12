@@ -21,9 +21,9 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/supabase.svg" alt="Supabase" width="50" height="50"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" height="50"/>
 </p>
 
 ### 📌 Frontend & Styling  
@@ -34,9 +34,9 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap 5" width="50" height="50"/>
 </p>
 
-### 📌 Authentication  
+### 📌 Authentication
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/clerk.svg" alt="Clerk" width="50" height="50"/>
+  <img src="https://clerk.com/_next/image?url=%2Fimages%2Flogo.svg&w=128&q=75" alt="Clerk" width="100"/>
 </p>
 
 ### 📌 Tools & Platforms  
@@ -54,12 +54,12 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 ## 📫 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
