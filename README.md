@@ -1,20 +1,9 @@
-- 👋 Hi, I’m @rochanshah15
-- 
-💻 BTech Computer Engineering Student
-Passionate about coding, problem-solving, and exploring new technologies.
-Eager to apply innovative tech solutions to real-world challenges.
-Currently learning more about AI, cloud computing, and software development.
-⚡ What I Do:
-Developing projects in Java and Python.
-Exploring Data Structures, Algorithms, and Database Management.
-Interested in Full Stack Development.
-📫 How to Reach Me:
-Email: shahrochan05@gmail.com
-LinkedIn: rochan-shah-974766279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Instagram : rochan_shah15?igsh=cDh6dWVtemNhb2pq
-Feel free to connect with me to discuss tech, projects, and innovations! 😊
-
-<!---
-rochanshah15/rochanshah15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Skills
+📌 Programming & Frameworks
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="50" height="50"/> </p>
+📌 Databases
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="50" height="50"/> </p>
+📌 Frontend & Styling
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50"/> </p>
+📌 Tools & Platforms
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-icon.svg" alt="Bash" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="50" height="50"/> </p>
