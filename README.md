@@ -27,7 +27,6 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ### 📌 Frontend & Styling  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/JavaFX_Logo.png" alt="JavaFX" width="120"/>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50"/>
