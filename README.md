@@ -58,3 +58,10 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
+
+
+## 📍 Resume & Portfolio  
+
+📄 **Resume:** [Download My Resume (PDF)](your-resume.pdf)[coming soon...]  
+🌐 **Portfolio:** [Visit My Website](https://your-portfolio.com)[coming soon...]
+
