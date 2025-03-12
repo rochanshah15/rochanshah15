@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shah Rochan  
+  ## <h2 align="center">👋 Hi, I'm Shah Rochan</h2>
 🚀 **AI & ML Enthusiast | Full-stack Developer | Problem Solver**  
 
 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. I love solving complex problems, building scalable applications, and exploring new technologies. Currently working on **innovative projects** in ML, Python, and Web Development.  
@@ -39,6 +39,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/XAMPP_logo.svg" alt="XAMPP" width="50" height="50"/>
 </p>
 
 ---
