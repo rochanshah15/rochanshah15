@@ -15,6 +15,8 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="50" height="50"/>
 </p>
 
 ### 📌 Databases  
@@ -64,4 +66,8 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 📄 **Resume:** [Download My Resume (PDF)](your-resume.pdf)[coming soon...]  
 🌐 **Portfolio:** [Visit My Website](https://your-portfolio.com)[coming soon...]
+
+---
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&langs_count=6)
+</center>
 
