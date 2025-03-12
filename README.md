@@ -39,7 +39,6 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo.svg" alt="XAMPP" width="50" height="50"/>
 
 </p>
 
@@ -50,9 +49,11 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <a href="https://www.linkedin.com/in/rochan-shah-974766279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
   </a>
+  
   <a href="https://github.com/rochanshah15/rochanshah15" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
   </a>
+
   <a href="https://www.instagram.com/rochan_shah15?igsh=cDh6dWVtemNhb2pq" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
   </a>
