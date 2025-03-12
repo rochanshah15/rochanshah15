@@ -60,7 +60,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 </p>
 
 ---
-##📍 Resume & Portfolio  
+📍 Resume & Portfolio  
 
 📄 **Resume:** [Download My Resume (PDF)](your-resume.pdf)[coming soon...]  
 🌐 **Portfolio:** [Visit My Website](https://your-portfolio.com)[coming soon...]
