@@ -22,8 +22,8 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase" width="50" height="50"/>
-  <img src="https://supabase.com/_next/static/media/logo-dark.8c4c91ce.svg" alt="Supabase" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="50"/>
 </p>
 
 ### 📌 Frontend & Styling  
@@ -36,7 +36,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ### 📌 Authentication
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Clerk-logo.svg" alt="Clerk" width="100"/>
+  <img src="https://static-00.iconduck.com/assets.00/clerk-icon-512x512-qfs0b4dq.png" alt="Clerk" width="50"/>
 </p>
 
 ### 📌 Tools & Platforms  
@@ -45,8 +45,6 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/bash-icon.svg" alt="Bash" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="50" height="50"/>
 </p>
 
 ---
