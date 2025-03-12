@@ -14,7 +14,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flask-logo-transparent.svg" alt="Flask Logo" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="100"/>
 </p>
 
 ### 📌 Databases  
