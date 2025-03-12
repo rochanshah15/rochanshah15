@@ -1,4 +1,4 @@
-  ## <h2 align="center">👋 Hi, I'm Shah Rochan</h2>
+  ## <h1 align="center">👋 Hi, I'm Shah Rochan</h1>
 🚀 **AI & ML Enthusiast | Full-stack Developer | Problem Solver**  
 
 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. I love solving complex problems, building scalable applications, and exploring new technologies. Currently working on **innovative projects** in ML, Python, and Web Development.  
