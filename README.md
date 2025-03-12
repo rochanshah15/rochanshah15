@@ -22,8 +22,8 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase" width="50" height="50"/>
+  <img src="https://supabase.com/_next/static/media/logo-dark.8c4c91ce.svg" alt="Supabase" width="120"/>
 </p>
 
 ### 📌 Frontend & Styling  
@@ -36,7 +36,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ### 📌 Authentication
 <p align="left">
-  <img src="https://clerk.com/_next/image?url=%2Fimages%2Flogo.svg&w=128&q=75" alt="Clerk" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Clerk-logo.svg" alt="Clerk" width="100"/>
 </p>
 
 ### 📌 Tools & Platforms  
