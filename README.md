@@ -14,9 +14,8 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="100" height="100" style="filter: invert(30%) sepia(100%) saturate(1000%) hue-rotate(190deg) brightness(90%) contrast(100%);">
+
 </p>
 
 ### 📌 Databases  
@@ -69,7 +68,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrochan&layout=compact&theme=dark&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochanshah15&layout=compact&theme=dark&langs_count=6" alt="Top Langs" />
 </p>
 
 
