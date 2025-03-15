@@ -68,6 +68,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochanshah15&layout=compact&theme=dark&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rochanshah15&show_icons=true&theme=dark" alt="Shah Rochan's GitHub Stats">
 </p>
 
 
