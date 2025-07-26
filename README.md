@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm SHAH ROCHAN
-**AI & ML Enthusiast | Full-stack Developer | Problem Solver**
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=1000&color=33FF33&center=true&width=438&lines=AI+&+ML+Enthusiast;Full-stack+Developer;Problem+Solver;Always+Learning..." alt="Typing SVG" /></a>
+</div>
 
 Email Me 👉 ✉️ **shahrochan05@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
