@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm SHAH ROCHAN
-![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=25&pause=500&color=33FF33&width=438&duration=2000&height=30&lines=AI+%26+ML+Enthusiast;Full-stack+Developer;Problem+Solver;Always+Learning...)
+![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=500&color=33FF33&width=438&duration=2000&height=30&lines=AI+%26+ML+Enthusiast;Full-stack+Developer;Problem+Solver;Always+Learning...)
 
 Email Me 👉 ✉️ **shahrochan05@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
