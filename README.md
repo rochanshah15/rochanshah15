@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm SHAH ROCHAN
+**AI & ML Enthusiast | Full-stack Developer | Problem Solver**
+
+Email Me 👉 ✉️ **shahrochan05@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Data Science Projects
+- 🌱 **I’m currently learning:** Data Science/ML
+- 👯 **I’m looking to collaborate on:** AI/ML Projects
+- 🤔 **I’m looking for help with:** BookMyBox
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shahrochan05@gmail.com / Socials
+- 😄 **Pronouns:** rochan
+- ⚡ **Fun fact:** I don't chase tech trends — I build with them.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rochan_shah15?igsh=cDh6dWVtemNhb2pq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rochan-shah-974766279/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rochan_shah15?t=u_qdeZItsWI4e5LZMwkPKw&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahrochan05@gmail.com) 
