@@ -42,7 +42,5 @@ Email Me 👉 ✉️ **shahrochan05@gmail.com** For Collaboration/Project or Any
 ---
 [![](https://visitcount.itsvg.in/api?id=rochanshah15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rochanshah15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
